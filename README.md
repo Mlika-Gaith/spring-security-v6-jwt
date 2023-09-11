@@ -17,7 +17,7 @@ using Spring Security and JWT (JSON Web Tokens).</p>
 1. Clone repository
 
 ````shell
-git clone 
+git clone https://github.com/Mlika-Gaith/spring-security-v6-jwt.git
 ````
 
 2. Navigate to the project directory:
